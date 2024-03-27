@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/deep_sort.h
+
+/workspaces/learn_deep/deep_sort_cpp/src/deep_sort.c
+deep_sort.h
+/workspaces/learn_deep/deep_sort_cpp/src/deep_sort.h
+

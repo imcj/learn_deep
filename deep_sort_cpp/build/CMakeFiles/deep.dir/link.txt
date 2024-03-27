@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdeep.a  CMakeFiles/deep.dir/src/deep_sort.c.o
-/usr/bin/ranlib libdeep.a
